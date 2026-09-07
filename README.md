@@ -2,13 +2,13 @@
 
 I'm a Computer Science student at the University of Calgary with a minor in Data Science. I build projects across software development, machine learning, audio, and creative technology.
 
-My work combines technical problem-solving with design and experimentation—from training predictive models and developing web applications to building real-time audio plugins.
+My work combines technical problem-solving with design and experimentation. My work ranges from training predictive models and developing web applications to building real-time audio plugins.
 
 ## What I'm Working On
 
-* 🎛️ Building **blank audio**, an independent audio software company
+* 🎛️ Building **blank audio**, an independent audio software project
 * 📊 Developing machine learning and data analysis projects
-* 🎹 Creating **PRISM**, an experimental synthesizer with JUCE and C++
+* 🎹 Creating **PRISM**, an experimental synthesizer with JUCE and C++ under blank audio
 * 🌐 Designing interactive web experiences with React and TypeScript
 * 🔊 Exploring digital signal processing, music technology, and HCI
 
