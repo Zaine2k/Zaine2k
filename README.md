@@ -1,8 +1,8 @@
 # Hey, I'm Zaine 👋
 
-I'm a Computer Science student at the University of Calgary with a minor in Data Science. I build projects across software development, machine learning, audio, and creative technology.
+I’m a Computer Science student at the University of Calgary with a minor in Data Science. My primary interests lie in data science, machine learning, analytics, and research.
 
-My work combines technical problem-solving with design and experimentation. My work ranges from training predictive models and developing web applications to building real-time audio plugins.
+I enjoy exploring complex datasets, developing predictive models, identifying meaningful patterns, and communicating insights that support better decisions. My work combines analytical thinking with software development, design, and experimentation, ranging from end-to-end machine learning projects and interactive data applications to real-time audio technology.
 
 ## Technologies
 
