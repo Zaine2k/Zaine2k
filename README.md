@@ -4,14 +4,6 @@ I'm a Computer Science student at the University of Calgary with a minor in Data
 
 My work combines technical problem-solving with design and experimentation. My work ranges from training predictive models and developing web applications to building real-time audio plugins.
 
-## What I'm Working On
-
-* 🎛️ Building **blank audio**, an independent audio software project
-* 📊 Developing machine learning and data analysis projects
-* 🎹 Creating **PRISM**, an experimental synthesizer with JUCE and C++ under blank audio
-* 🌐 Designing interactive web experiences with React and TypeScript
-* 🔊 Exploring digital signal processing, music technology, and HCI
-
 ## Technologies
 
 **Languages:** Python, C++, JavaScript, TypeScript, SQL, C#
@@ -19,6 +11,14 @@ My work combines technical problem-solving with design and experimentation. My w
 **Web:** React, Next.js, Vite, Supabase
 **Creative Technology:** JUCE, HISE, Unity, Three.js
 **Tools:** Git, GitHub, Visual Studio, VS Code
+
+## What I'm Working On
+
+* 🎛️ Building **blank audio**, an independent audio software project
+* 📊 Developing machine learning and data analysis projects
+* 🎹 Creating **PRISM**, an experimental synthesizer with JUCE and C++ under blank audio
+* 🌐 Designing interactive web experiences with React and TypeScript
+* 🔊 Exploring digital signal processing, music technology, and HCI
 
 ## Featured Work
 
@@ -46,4 +46,4 @@ A 3D portfolio experience built with Next.js, TypeScript, and Three.js to showca
 
 I'm always interested in conversations about data science, software, audio technology, and unusual creative ideas.
 
-[Portfolio](https://zaineancheta.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/zaine-ancheta/)
+[Portfolio](https://zaineancheta.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/zaine-ancheta/) · [Email](zaineancheta123@gmail.com)
