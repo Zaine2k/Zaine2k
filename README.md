@@ -63,7 +63,7 @@ I enjoy exploring complex datasets, developing predictive models, identifying me
 
 ## What I'm Working On
 
-* 🎛️ Building **blank audio**, an independent audio software project
+* 🎛️ Building **blank audio**, an audio software project/brand
 * 📊 Developing machine learning and data analysis projects
 * 🎹 Creating **PRISM**, an experimental synthesizer with JUCE and C++ under blank audio
 * 🌐 Designing interactive web experiences with React and TypeScript
